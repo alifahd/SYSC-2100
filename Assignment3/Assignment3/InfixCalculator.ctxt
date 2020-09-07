@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=InfixCalculator
+comment0.text=\r\n\ Takes\ a\ mathematical\ expression\ and\ calculates\ it\ after\ converting\ it\r\n\ to\ a\ postfix\ representation.\r\n\r\n\ @author\ Ali\ Fahd\r\n\ @version\ March\ 8,\ 2020\r\n
+comment1.params=input
+comment1.target=InfixCalculator(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ InfixCalculator\r\n\ trims\ the\ user\ input\ and\ intializes\ variables,\ calls\ procedure.\r\n
+comment2.params=
+comment2.target=void\ evaluateInFix()
+comment2.text=\r\n\ evaluates\ the\ expression\ once\ it\ converts\ it\ to\ postfix\ using\ the\r\n\ stack\ class\ created.\r\n
+comment3.params=
+comment3.target=void\ convertPostfix()
+comment3.text=\r\n\ converts\ the\ infix\ expression\ to\ a\ postfix\ expression\ without\ brackets\r\n
+comment4.params=
+comment4.target=java.lang.String\ getPostfix()
+comment4.text=\r\n\ returns\ the\ postfix\ expression\r\n\ \r\n\ @return\ String\ the\ postfix\ expression\r\n
+comment5.params=opr
+comment5.target=int\ precedence(char)
+comment5.text=\r\n\ returns\ a\ number\ depending\ on\ the\ operation\ given\r\n\ \r\n\ @param\ opr\ the\ operator\r\n\ @return\ int\ the\ 1\ if\ its\ multiplication\ or\ division,\ 0\ for\ add\ and\ sub\r\n
+numComments=6

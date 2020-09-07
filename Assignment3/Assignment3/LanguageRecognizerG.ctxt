@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LanguageRecognizerG
+comment0.text=\r\n\ Takes\ a\ word\ and\ tells\ the\ user\ if\ it\ is\ in\ the\ given\ G\ language\ or\ not.\r\n\r\n\ @author\ Ali\ Fahd\r\n\ @version\ March\ 8,\ 2020\r\n
+comment1.params=input
+comment1.target=LanguageRecognizerG(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LanguageRecognizerG\r\n\ takes\ the\ user\ input\ and\ initalizes\ it\ to\ word\ variable.\r\n
+comment2.params=input
+comment2.target=boolean\ recursiveRecogG(java.lang.String)
+comment2.text=\r\n\ Method\ checks\ the\ requirements\ of\ the\ word\ being\ in\ the\ G\ language\r\n\r\n\ @param\ input\ the\ word\ the\ user\ entered\r\n\ @return\ Boolean\ True\ if\ word\ is\ in\ G\ language\ otherwise\ false\r\n
+comment3.params=
+comment3.target=void\ recursivePrintG()
+comment3.text=\r\n\ Method\ prints\ the\ result\ of\ the\ check\ of\ the\ word\ in\ relation\ to\ \r\n\ the\ G\ language\r\n
+numComments=4

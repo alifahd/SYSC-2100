@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Assignment4
+comment0.text=\r\n\ First\ Question\:\ Recursive\ methods\ of\ selection\ and\ bubble\ sorts\r\n\ Second\ Question\:\ Checks\ if\ word\ is\ in\ the\ given\ L\ language\r\n\ Third\ Question\:\ Removes\ any\ spaces\ between\ digits\r\n\r\n\ @author\ Ali\ Fahd\r\n\ @version\ March\ 23,\ 2020\r\n
+comment1.params=theArray\ n
+comment1.target=void\ recursiveSelectionSort(java.lang.Comparable[],\ int)
+comment1.text=\r\n\ \r\n\ Method\ will\ recursively\ sort\ an\ array\ using\ the\ selection\ sort\r\n\ algorithm\r\n\ \r\n\ @param\ <T>\r\n\ @param\ theArray\ -\ array\ given\ that\ needs\ sorting\r\n\ @param\ int\ n\ -\ size\ of\ array\r\n
+comment2.params=theArray\ n
+comment2.target=void\ recursiveBubbleSort(java.lang.Comparable[],\ int)
+comment2.text=\r\n\ \ \r\n\ \ Method\ will\ recursively\ sort\ an\ array\ using\ the\ bubble\ sort\r\n\ algorithm\r\n\ \r\n\ @param\ <T>\r\n\ @param\ theArray\ -\ array\ given\ that\ needs\ sorting\r\n\ @param\ int\ n\ -\ size\ of\ array\r\n
+comment3.params=theArray\ size
+comment3.target=int\ indexOfLargest(java.lang.Comparable[],\ int)
+comment3.text=\r\n\ \r\n\ Method\ will\ return\ the\ index\ of\ the\ largest\ element\ in\ an\ array\r\n\ \r\n\ @param\ <T>\r\n\ @param\ theArray\ -\ given\ array\ which\ will\ find\ value\ from\r\n\ @param\ int\ size\ -\ the\ size\ of\ the\ array\r\n\ @return\ int\ indexSoFar\ -\ index\ of\ largest\ value\ in\ the\ array\r\n
+comment4.params=str
+comment4.target=boolean\ isInLanguage(java.lang.String)
+comment4.text=\r\n\ \r\n\ Method\ will\ determine\ if\ a\ given\ string\ is\ in\ the\ L\ language\ w$w'\r\n\ (w'\ is\ the\ reverse\ of\ w)\r\n\ \r\n\ @param\ String\ str\ -\ given\ string\ by\ user\ assuming\ it\ contains\ $\r\n\ @return\ boolean\ -\ true\ if\ it\ is\ false\ if\ it\ isn't\ in\ language\r\n
+comment5.params=str
+comment5.target=int\ convertToNumber(java.lang.String)
+comment5.text=\r\n\ \r\n\ Method\ takes\ a\ string\ and\ converts\ all\ the\ digits\ into\ a\ number\r\n\ removes\ all\ spaces\ between\ digits\ essentially\r\n\ \r\n\ @param\ String\ str\ -\ given\ string\r\n\ @return\ int\ num\ -\ the\ resulting\ number\ from\ the\ string\r\n
+numComments=6

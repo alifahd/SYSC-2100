@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SortableString
+comment1.params=x
+comment1.target=SortableString(java.lang.String)
+comment2.params=other
+comment2.target=int\ compareTo(Sortable)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

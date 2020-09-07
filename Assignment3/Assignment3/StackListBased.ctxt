@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=StackListBased
+comment0.text=\r\n\ Creates\ a\ stack\ using\ linked\ list.\r\n\r\n\ @author\ Ali\ Fahd\r\n\ @version\ March\ 8,\ 2020\r\n
+comment1.params=
+comment1.target=StackListBased()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StackListBased\r\n\ sends\ program\ to\ method\ createStack()\r\n
+comment2.params=
+comment2.target=void\ createStack()
+comment2.text=\r\n\ method\ initializes\ the\ linked\ list\r\n
+comment3.params=
+comment3.target=void\ popAll()
+comment3.text=\r\n\ cleares\ the\ linked\ list\ and\ thus\ the\ "stack"\r\n
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=\r\n\ \r\n\ checks\ the\ size\ of\ the\ linked\ list\r\n\ \r\n\ @return\ Boolean\ true\ if\ size\ is\ 0\ otherwise\ false\r\n
+comment5.params=o
+comment5.target=java.util.LinkedList\ push(java.lang.Object)
+comment5.text=\r\n\ \r\n\ Adds\ an\ object\ to\ the\ beginning\ of\ the\ linked\ list\ \r\n\ and\ returns\ the\ new\ list\ as\ a\ "stack"\r\n\ @param\ Object\ o\r\n\ @return\ Linked\ List\r\n
+comment6.params=
+comment6.target=java.lang.Object\ pop()
+comment6.text=\r\n\ \r\n\ Removes\ the\ first\ item\ of\ the\ linked\ list\ and\ returns\ it\r\n\ \r\n\ @exception\ EmptyStackException\ if\ nothing\ in\ list\ \r\n\ @return\ Object\ temp\ the\ item\ at\ the\ beggining\ of\ the\ list\ (top\ of\ stack)\r\n
+comment7.params=
+comment7.target=java.lang.Object\ peek()
+comment7.text=\r\n\ \r\n\ Returns\ the\ item\ at\ the\ front\ of\ the\ list\ (top\ of\ the\ stack)\r\n\ \r\n\ @exception\ EmptyStackException\ if\ nothing\ in\ list\r\n\ @return\ Object\ temp\ the\ item\ at\ the\ beggining\ of\ the\ list\ (top\ of\ stack)\r\n
+numComments=8

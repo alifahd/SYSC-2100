@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Sortable
+comment1.params=other
+comment1.target=int\ compareTo(Sortable)
+numComments=2

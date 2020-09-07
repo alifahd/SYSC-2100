@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CountSubstrings
+comment0.text=\r\n\r\n\ @author\ Ali\ Fahd\r\n\ @date\ Feb.\ 14,\ 2020\r\n
+comment1.params=
+comment1.target=CountSubstrings()
+comment1.text=\r\n\ \ Constructor\ for\ class\ CountSubstrings\r\n
+comment2.params=
+comment2.target=void\ process()
+comment2.text=\r\n\ \ Method\ process\ executes\ the\ assignemnt\r\n
+comment3.params=word
+comment3.target=java.util.ArrayList\ strToCharAL(java.lang.String)
+comment3.text=\r\n\ \ Method\ converts\ a\ given\ word\ to\ a\ an\ array\ list\ with\ a\ \r\n\ \ letter\ at\ each\ index\r\n\ \ \r\n\ \ @param\ String\ word\ -\ the\ word\ that\ needs\ to\ be\ converted\ to\ an\ array\ list\r\n\ \ @return\ ArrayList\ list\ -\ the\ list\ of\ characters\ in\ the\ word\ given\r\n
+comment4.params=word
+comment4.target=java.util.LinkedList\ strToCharLL(java.lang.String)
+comment4.text=\r\n\ \ Method\ converts\ a\ given\ word\ to\ a\ a\ linked\ list\ with\ a\ \r\n\ \ letter\ at\ each\ index\r\n\ \ \r\n\ \ @param\ String\ word\ -\ the\ word\ that\ needs\ to\ be\ converted\ to\ a\ linked\ list\r\n\ \ @return\ LinkedList\ list\ -\ the\ list\ of\ characters\ in\ the\ word\ given\r\n
+comment5.params=text\ pattern
+comment5.target=int\ findBrute(java.util.List,\ java.util.List)
+comment5.text=\r\n\ Returns\ the\ lowest\ index\ at\ which\ substring\ pattern\ begins\ in\ text\ (or\r\n\ else\ -1).\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ @param\ args\ the\ command\ line\ arguments\r\n
+numComments=7
